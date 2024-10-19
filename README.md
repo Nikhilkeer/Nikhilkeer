@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nikhilkeer
-- 👀 I’m interested in java Full Stack Development.
+- 👀 I’m interested in Java Full Stack Development.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Open Source 
 - 📫 How to reach me NIKHILKEER46@GMNAIL.COM  
